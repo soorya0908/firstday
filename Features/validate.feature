@@ -11,3 +11,5 @@ and user can see language option dropdown
 and user can see login details 
 and user can see cart details
 and 
+
+user yuiiiiiiigi
