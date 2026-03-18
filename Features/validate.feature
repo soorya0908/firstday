@@ -10,7 +10,7 @@ and user can able "search amazon.in" placeholder
 and user can see language option dropdown
 and user can see login details 
 and user can see cart details
-and 
+and wertyuio
 
 user yuiiiiiiigi
 
